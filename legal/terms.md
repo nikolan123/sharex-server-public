@@ -35,5 +35,3 @@ Welcome to our ShareX server. By accessing or using our services, you agree to c
   - **Email**: sharex@nikolan.xyz
 
 By using our services, you acknowledge that you have read and understood these Terms of Service and agree to be bound by them.
-
-Disclaimer: This terms of service template is provided for informational purposes only and does not constitute legal advice. You should consult with a legal professional to ensure compliance with applicable laws and regulations.
