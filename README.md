@@ -4,3 +4,6 @@ This repository includes the Terms of Service and Privacy Policy. For any bugs/i
 # Legal
 - [Terms of Service](legal/terms.md)
 - [Privacy Policy](legal/privacy.md)
+# Developers
+- [nikolan123](https://github.com/nikolan123)
+- [RestartB](https://github.com/RestartB)
